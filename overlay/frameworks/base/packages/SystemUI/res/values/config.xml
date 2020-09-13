@@ -23,7 +23,4 @@
     <!-- Color of the FOD view -->
     <color name="config_fodColor">#ccccac</color>
 
-    <!-- Allow device to use unordinary cutout overlays -->
-    <bool name="config_customCutout">true</bool>
-
 </resources>
